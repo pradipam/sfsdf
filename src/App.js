@@ -219,7 +219,7 @@ export default function App() {
                   <th>Last Name</th>
                   <th>Email</th>
                   <th>age</th>
-                  <th>Gender</th>
+                  <th>Ge nder</th>
                   <th>Birth Date</th>
                 </tr>
               </thead>
